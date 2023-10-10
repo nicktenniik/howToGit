@@ -1,0 +1,149 @@
+body {
+    background: linear-gradient(45deg, #4158d0 0%, #c850c0 30%, #ffcc70 90%);
+}
+
+header {
+    display: flex;
+    margin-left: 50px;
+    margin-right: 100px;
+    border-bottom: 2px dashed #000;
+    font-size: 20px;
+}
+
+.hexletlogo {
+    height: 50px;
+    width: 50px;
+}
+
+.allaboutfixie {
+    display: block;
+    width: 900px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-bottom: 30px;
+    margin-right: auto;
+    padding-top: 10px;
+    color: white;
+}
+
+.allaboutfixie:hover {
+    border: 1px solid white;
+    border-radius: 24px;
+}
+
+.titlefixie {
+    margin-top: 5px;
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+.fixedgear {
+    width: 900px;
+    height: 600px;
+}
+
+.fixedg,
+.nogear {
+    display: inline-block;
+    width: 447px;
+    height: 325px;
+}
+
+.textaboutfixie {
+    font-size: 19px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+.allaboutcaferacer {
+    display: block;
+    width: 900px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-bottom: 30px;
+    margin-right: auto;
+    color: white;
+}
+
+.allaboutcaferacer:hover {
+    border: 1px solid white;
+    border-radius: 24px;
+}
+
+.titlecr {
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+.caferacer1,
+.caferacer2 {
+    width: 447px;
+    height: 350px;
+}
+
+.textaboutcaferacer {
+    font-size: 19px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+}
+
+.allaboutstalcraft {
+    display: block;
+    width: 900px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-bottom: 30px;
+    margin-right: auto;
+    color: white;
+}
+
+.allaboutstalcraft:hover {
+    border: 1px solid white;
+    border-radius: 24px;
+}
+
+.titlesc {
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+.stalcraft {
+    width: 900px;
+    height: 600px;
+}
+
+.duty,
+.mod {
+    width: 447px;
+    height: 350px;
+}
+
+.textaboutstalcraft {
+    font-size: 19px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+}
+
+footer {
+    color: white;
+    font-size: 19px;
+    background: repeating-linear-gradient(
+        45deg,
+        #4158d0 0px,
+        #4158d0 50px,
+        #c850c0 50px,
+        #c850c0 100px,
+        #5FD4B1 10px,
+        #5FD4B1 150px
+    );
+
+}
+
+footer p {
+    padding-left: 170px;
+}
